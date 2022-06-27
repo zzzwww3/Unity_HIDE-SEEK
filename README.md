@@ -19,6 +19,7 @@ New Unity Project.exe로 실행
 
 첫 사용
 
+https://user-images.githubusercontent.com/67256193/175886812-44db3aab-7024-4c43-bd46-73fcfc2f6078.mp4
 
 <iframe id="video" width="100%" height="100%" src="https://github.com/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4" frameborder="0">
 </iframe>
