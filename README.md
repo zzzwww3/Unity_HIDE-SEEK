@@ -18,3 +18,8 @@ New Unity Project.exe로 실행
 멀티플레이 방법
 
 첫 사용
+
+
+<video width="100%" height="100%" controls="controls">
+  <source src="/HIDE&SEEK.mp4" type="video/mp4">
+</video>
