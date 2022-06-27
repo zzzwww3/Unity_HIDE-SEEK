@@ -23,6 +23,8 @@ New Unity Project.exe로 실행
 <iframe id="video" width="100%" height="100%" src="https://github.com/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4" frameborder="0">
 </iframe>
 
+<iframe width="640" height="360" src="[https://www.youtube.com/embed/6Az2cNU7gUw](https://github.com/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4)" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 
 <video width="100%" height="100%" controls="controls">
   <source src="https://github.com/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4" type="video/mp4">
