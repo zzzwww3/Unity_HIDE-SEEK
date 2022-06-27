@@ -19,6 +19,8 @@ New Unity Project.exe로 실행
 
 첫 사용
 
+<iframe id="video" width="가로" height="세로" src="/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4" frameborder="0">
+</iframe>
 
 <video width="100%" height="100%" controls="controls">
   <source src="/zzzwww3/Unity_HIDE-SEEK/blob/main/HIDE%26SEEK.mp4" type="video/mp4">
